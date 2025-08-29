@@ -9,4 +9,4 @@ jobs:
       - run: echo "${example}"
       - env:
         example: Here is step.
-        run: echo "${example}"
+      - run: echo "${example}"
